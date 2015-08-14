@@ -1,0 +1,1 @@
+30 * * * * echo "{\"value\": `python ~/gasbuddy/scrapegas2.py`}" | curl -u nmrs_Vg6wY3OvEAhh: https://api.numerousapp.com/v2/metrics/1762544608803392269/events -d @-
